@@ -1,7 +1,7 @@
 // const mysql = require("mysql2");
 
 // const { DataTypes } = require("sequelize");
-const sequelize = require("../configs/connect");
+const sequelize = require("../config/connect");
 
 class Model {
   // host = "localhost";
